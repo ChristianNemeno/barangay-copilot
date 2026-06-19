@@ -1,0 +1,6 @@
+{
+  "name": "Barangay Development Copilot",
+  "description": "An automated multi-phase civic workspace to transform messy citizen comments into prioritized sub-projects, budgets, and draft government resolutions under human-in-the-loop oversight.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
